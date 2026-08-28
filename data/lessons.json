@@ -4,7 +4,7 @@
     "content": "<h2>C++ Basics</h2><p>C++ is a general-purpose programming language[cite: 4]. The <code>main()</code> function serves as the absolute starting point of execution for every C++ program[cite: 1].</p><ul><li><strong>Input/Output:</strong> Uses <code>cin</code> for input and <code>cout</code> for output[cite: 4].</li><li><strong>Variables:</strong> Named storage locations used to store and manipulate data[cite: 1].</li></ul>"
   },
   "PROG2": {
-    "title": "Basic Syntax and Control Structures",
+    "title": "Basic Syntax and Control Structures" ,
     "content": "<h2>Control Structures</h2><p>Control structures determine the order in which statements execute[cite: 5].</p><ul><li><strong>Sequence:</strong> Execute statements in order[cite: 5].</li><li><strong>Selection:</strong> Choose between alternatives using <code>if</code>, <code>else if</code>, <code>else</code>, and <code>switch</code>[cite: 2, 5].</li><li><strong>Repetition:</strong> Repeat statements using <code>for</code>, <code>while</code>, and <code>do-while</code> loops[cite: 2, 5].</li></ul>"
   },
   "PROG3": {
