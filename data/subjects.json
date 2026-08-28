@@ -1,0 +1,17 @@
+[
+{
+"id": "PROG1",
+"title": "Introduction to C++ (PROG1)",
+"description": "Covers the fundamental concepts of C++ programming, including basic program structure, variables, data types, operators, and input/output operations."
+},
+{
+"id": "PROG2",
+"title": "Basic Syntax and Control Structures (PROG2)",
+"description": "Explores C++ syntax rules, formatting, and control structures like sequential execution, conditional statements (if, else, switch), and loops (for, while, do-while)."
+},
+{
+"id": "PROG3",
+"title": "Functions (PROG3)",
+"description": "Focuses on modular programming using functions, covering function definition, parameters, arguments, return types, prototypes, and pass-by-value mechanics."
+}
+]  
