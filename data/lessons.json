@@ -1,14 +1,14 @@
 {
-  "PROG1": {
-    "title": "Introduction to C++",
-    "content": "<h2>C++ Basics</h2><p>C++ is a general-purpose programming language[cite: 4]. The <code>main()</code> function serves as the absolute starting point of execution for every C++ program[cite: 1].</p><ul><li><strong>Input/Output:</strong> Uses <code>cin</code> for input and <code>cout</code> for output[cite: 4].</li><li><strong>Variables:</strong> Named storage locations used to store and manipulate data[cite: 1].</li></ul>"
-  },
-  "PROG2": {
-    "title": "Basic Syntax and Control Structures" ,
-    "content": "<h2>Control Structures</h2><p>Control structures determine the order in which statements execute[cite: 5].</p><ul><li><strong>Sequence:</strong> Execute statements in order[cite: 5].</li><li><strong>Selection:</strong> Choose between alternatives using <code>if</code>, <code>else if</code>, <code>else</code>, and <code>switch</code>[cite: 2, 5].</li><li><strong>Repetition:</strong> Repeat statements using <code>for</code>, <code>while</code>, and <code>do-while</code> loops[cite: 2, 5].</li></ul>"
-  },
-  "PROG3": {
-    "title": "Functions",
-    "content": "<h2>Modular Programming with Functions</h2><p>Functions are reusable blocks of code written to perform a singular, specific task[cite: 1, 3].</p><ul><li><strong>Parameters & Arguments:</strong> Functions can declare parameters to receive external values, which are supplied as arguments when called[cite: 1].</li><li><strong>Return Types:</strong> A function may return a value or use <code>void</code>[cite: 3].</li><li><strong>Prototypes:</strong> Function prototypes declare functions before their definitions[cite: 3].</li></ul>"
-  }
+  "PROG1": {
+    "title": "Introduction to C++",
+    "content": "<h2>C++ Program Structure</h2><p>Every C++ program begins execution at the <code>main()</code> function[cite: 1]. The structure relies on header files like <code>iostream</code>, namespaces, and statements[cite: 1].</p><h2>Variables and Data Types</h2><p>Variables are named storage locations used to store and manipulate data[cite: 1]. Common types include <code>int</code> for whole numbers, <code>double</code> for decimals, and <code>string</code> for text[cite: 1].</p>"
+  },
+  "PROG2": {
+    "title": "Basic Syntax and Control Structures",
+    "content": "<h2>Control Structures</h2><p>Control structures determine the order in which statements execute[cite: 2, 5]. The three fundamental types are sequence, selection, and repetition[cite: 2, 5].</p><ul><li><strong>Selection:</strong> Uses <code>if</code>, <code>else if</code>, <code>else</code>, and <code>switch</code>[cite: 2, 5].</li><li><strong>Repetition:</strong> Uses <code>for</code>, <code>while</code>, and <code>do-while</code> loops[cite: 2, 5].</li></ul>"
+  },
+  "PROG3": {
+    "title": "Functions",
+    "content": "<h2>Modular Programming</h2><p>Functions are reusable blocks of code written to perform a singular, specific task[cite: 3, 6].</p><ul><li><strong>Parameters & Arguments:</strong> Parameters are variables listed in a definition, while arguments are actual values supplied during a call[cite: 3].</li><li><strong>Pass-by-Value:</strong> Receives a copy of the argument rather than the original variable[cite: 3].</li></ul>"
+  }
 }
