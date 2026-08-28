@@ -93,7 +93,8 @@
           "Typical Beginner Mistakes – Missing braces { } or setting incorrect loop conditions."
         ]
       }
-    ],
+    ]
+  },
   "PROG2": {
     "id": "PROG2",
     "title": "Basic Syntax and Control Structures",
@@ -482,7 +483,8 @@
           "Control structures allow programs to solve more complex problems. – Key Takeaway"
         ]
       }
-    ],
+    ]
+  },
   "PROG3": {
     "id": "PROG3",
     "title": "Functions",
@@ -806,5 +808,4 @@
     ]
   }
 }
-}
-}
+
