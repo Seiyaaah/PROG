@@ -1,0 +1,1408 @@
+{
+"PROG1": [
+{
+"type": "multiple-choice",
+"question": "Which of the following best describes C++ as a programming language?",
+"options": [
+"A specialized language exclusively for web styling and document formatting",
+"A general-purpose programming language widely used for systems programming and performance-intensive applications",
+"An interpreted scripting language designed only for automated browser testing",
+"A low-level assembly language used solely for direct hardware wiring"
+],
+"answer": 1
+},
+{
+"type": "multiple-choice",
+"question": "What programming paradigms does C++ support according to the text?",
+"options": [
+"Procedural programming and object-oriented programming",
+"Functional programming and logic programming only",
+"Declarative programming and event-driven programming only",
+"Aspect-oriented programming and meta-programming exclusively"
+],
+"answer": 0
+},
+{
+"type": "multiple-choice",
+"question": "What serves as the absolute starting point of execution for every C++ program?",
+"options": [
+"The header file #include ",
+"The namespace using namespace std;",
+"The main() function",
+"The return statement"
+],
+"answer": 2
+},
+{
+"type": "multiple-choice",
+"question": "Most C++ statements must end with which of the following symbols?",
+"options": [
+"A colon (:)",
+"A semicolon (;)",
+"A period (.)",
+"A comma (,)"
+],
+"answer": 1
+},
+{
+"type": "multiple-choice",
+"question": "Which operator is used with cout to display output on the screen?",
+"options": [
+"The extraction operator (>>)",
+"The insertion operator (<<)",
+"The assignment operator (=)",
+"The address-of operator (&)"
+],
+"answer": 1
+},
+{
+"type": "multiple-choice",
+"question": "How are single-line comments designated in C++ source code?",
+"options": [
+"/*",
+"//",
+"#",
+"--"
+],
+"answer": 1
+},
+{
+"type": "multiple-choice",
+"question": "How are multi-line comments enclosed in C++ source code?",
+"options": [
+"Between ",
+"Between /* and */",
+"Between (* and *)",
+"Between <# and #>"
+],
+"answer": 1
+},
+{
+"type": "multiple-choice",
+"question": "Which of the following is a valid rule for variable naming in C++?",
+"options": [
+"Begin names with a number",
+"Use spaces to separate compound words",
+"Use C++ reserved keywords for clarity",
+"Do not begin names with a number"
+],
+"answer": 3
+},
+{
+"type": "multiple-choice",
+"question": "Which data type offers greater precision for decimal numbers?",
+"options": [
+"int",
+"float",
+"double",
+"char"
+],
+"answer": 2
+},
+{
+"type": "multiple-choice",
+"question": "Which data type represents a single character enclosed in single quotes?",
+"options": [
+"string",
+"char",
+"bool",
+"double"
+],
+"answer": 1
+},
+{
+"type": "multiple-choice",
+"question": "How are text values represented in C++ data types?",
+"options": [
+"Enclosed in single quotes ('')",
+"Enclosed in double quotes (\"\")",
+"Enclosed in curly braces ({})",
+"Enclosed in brackets ([])"
+],
+"answer": 1
+},
+{
+"type": "multiple-choice",
+"question": "Which keyword is used to declare a constant whose value cannot be changed after definition?",
+"options": [
+"static",
+"final",
+"const",
+"fixed"
+],
+"answer": 2
+},
+{
+"type": "multiple-choice",
+"question": "Which arithmetic operator represents the modulus or remainder operation?",
+"options": [
+"/",
+"*",
+"%",
+"-"
+],
+"answer": 2
+},
+{
+"type": "multiple-choice",
+"question": "Which operator represents the assignment operation?",
+"options": [
+"==",
+"=",
+"===",
+":="
+],
+"answer": 1
+},
+{
+"type": "multiple-choice",
+"question": "What does the comparison operator != evaluate to?",
+"options": [
+"Equal to",
+"Not equal to",
+"Greater than or equal to",
+"Less than or equal to"
+],
+"answer": 1
+},
+{
+"type": "multiple-choice",
+"question": "In logical operators, what does && represent?",
+"options": [
+"OR — at least one condition must be true",
+"NOT — reverses the condition",
+"AND — both conditions must be true",
+"XOR — exclusive disjunction"
+],
+"answer": 2
+},
+{
+"type": "multiple-choice",
+"question": "In the Input-Process-Output (IPO) Model, which operator is utilized with cin to receive data from the user?",
+"options": [
+"The insertion operator (<<)",
+"The extraction operator (>>)",
+"The assignment operator (=)",
+"The scope resolution operator (::)"
+],
+"answer": 1
+},
+{
+"type": "multiple-choice",
+"question": "Which conditional statement executes a specific block of code only when the given condition evaluates to true without an alternative path?",
+"options": [
+"if-else statement",
+"else if ladder",
+"if statement",
+"switch statement"
+],
+"answer": 2
+},
+{
+"type": "multiple-choice",
+"question": "Which statement provides two distinct execution paths (one if true, and another if false)?",
+"options": [
+"if statement",
+"if-else statement",
+"while loop",
+"else if ladder"
+],
+"answer": 1
+},
+{
+"type": "multiple-choice",
+"question": "What allows a program to test multiple consecutive conditions?",
+"options": [
+"if statement",
+"else if ladder",
+"array indexing",
+"return statement"
+],
+"answer": 1
+},
+{
+"type": "multiple-choice",
+"question": "What data structure is used to store multiple values of the exact same data type in a single variable?",
+"options": [
+"Function",
+"Array",
+"Constant",
+"Header file"
+],
+"answer": 1
+},
+{
+"type": "multiple-choice",
+"question": "How are array elements accessed in C++?",
+"options": [
+"One-based indexing (first element at index 1)",
+"Zero-based indexing (first element at index 0)",
+"Negative-based indexing (first element at index -1)",
+"Hash-based indexing"
+],
+"answer": 1
+},
+{
+"type": "multiple-choice",
+"question": "Which loop repeats a block of code a specific, pre-determined number of times?",
+"options": [
+"while loop",
+"do-while loop",
+"for loop",
+"infinite loop"
+],
+"answer": 2
+},
+{
+"type": "multiple-choice",
+"question": "Which loop repeats a block of code as long as a specified condition remains true, requiring an update statement to prevent infinite loops?",
+"options": [
+"for loop",
+"while loop",
+"switch block",
+"function definition"
+],
+"answer": 1
+},
+{
+"type": "multiple-choice",
+"question": "What are reusable blocks of code written to perform a singular, specific task called?",
+"options": [
+"Variables",
+"Arrays",
+"Functions",
+"Constants"
+],
+"answer": 2
+},
+{
+"type": "multiple-choice",
+"question": "What term refers to the procedural process of identifying and correcting errors in your code?",
+"options": [
+"Compilation",
+"Debugging",
+"Execution",
+"Instantiation"
+],
+"answer": 1
+},
+{
+"type": "multiple-choice",
+"question": "Which of the following is a typical beginner mistake listed in the text?",
+"options": [
+"Using valid semicolons at the end of statements",
+"Missing semicolons (;)",
+"Using proper case-sensitive keywords",
+"Declaring variables before using them"
+],
+"answer": 1
+},
+{
+"type": "multiple-choice",
+"question": "What common beginner error involves confusing the assignment operator (=) with which comparison operator?",
+"options": [
+"!=",
+"<=",
+"==",
+">="
+],
+"answer": 2
+},
+{
+"type": "multiple-choice",
+"question": "Which header file is included in the basic program structure example provided in the text?",
+"options": [
+"#include ",
+"#include ",
+"#include ",
+"#include "
+],
+"answer": 1
+},
+{
+"type": "multiple-choice",
+"question": "Which namespace is utilized in the basic C++ program structure example?",
+"options": [
+"using namespace std;",
+"using namespace cplusplus;",
+"using namespace iostream;",
+"using namespace global;"
+],
+"answer": 0
+},
+{
+"type": "multiple-choice",
+"question": "What type of comment begins with //?",
+"options": [
+"Multi-line comment",
+"Single-line comment",
+"Compiler directive",
+"Documentation block"
+],
+"answer": 1
+},
+{
+"type": "multiple-choice",
+"question": "What type of comment is enclosed within /* and */?",
+"options": [
+"Single-line comment",
+"Multi-line comment",
+"Preprocessor command",
+"Statement instruction"
+],
+"answer": 1
+},
+{
+"type": "multiple-choice",
+"question": "How are boolean values represented in C++?",
+"options": [
+"As whole numbers like 1 and 0 only",
+"As true or false values",
+"As text enclosed in double quotes",
+"As decimal numbers"
+],
+"answer": 1
+},
+{
+"type": "multiple-choice",
+"question": "Which assignment operator adds a value to a variable and assigns the result?",
+"options": [
+"+=",
+"-=",
+"*=",
+"/="
+],
+"answer": 0
+},
+{
+"type": "multiple-choice",
+"question": "Which assignment operator subtracts a value from a variable and assigns the result?",
+"options": [
+"+=",
+"-=",
+"*=",
+"/="
+],
+"answer": 1
+},
+{
+"type": "multiple-choice",
+"question": "Which assignment operator multiplies a variable by a value and assigns the result?",
+"options": [
+"+=",
+"-=",
+"*=",
+"/="
+],
+"answer": 2
+},
+{
+"type": "multiple-choice",
+"question": "Which assignment operator divides a variable by a value and assigns the result?",
+"options": [
+"+=",
+"-=",
+"*=",
+"/="
+],
+"answer": 3
+},
+{
+"type": "multiple-choice",
+"question": "What does the comparison operator >= evaluate to?",
+"options": [
+"Equal to",
+"Not equal to",
+"Greater than or equal to",
+"Less than or equal to"
+],
+"answer": 2
+},
+{
+"type": "multiple-choice",
+"question": "What does the comparison operator <= evaluate to?",
+"options": [
+"Greater than",
+"Less than",
+"Greater than or equal to",
+"Less than or equal to"
+],
+"answer": 3
+},
+{
+"type": "multiple-choice",
+"question": "What does the logical operator || represent?",
+"options": [
+"AND — both conditions must be true",
+"OR — at least one condition must be true",
+"NOT — reverses the condition",
+"Equal to condition"
+],
+"answer": 1
+},
+{
+"type": "multiple-choice",
+"question": "What does the logical operator ! represent?",
+"options": [
+"AND — both conditions must be true",
+"OR — at least one condition must be true",
+"NOT — reverses the condition",
+"Assignment operation"
+],
+"answer": 2
+},
+{
+"type": "multiple-choice",
+"question": "In the IPO model, what does the 'Process' step perform?",
+"options": [
+"Receives data from the user utilizing cin",
+"Performs calculations or applies programming logic to the inputs",
+"Displays the processed results to the screen using cout",
+"Declares header files and namespaces"
+],
+"answer": 1
+},
+{
+"type": "multiple-choice",
+"question": "Which of the following is true about array data types?",
+"options": [
+"Array elements can store multiple values of different data types in a single variable",
+"Array elements are used to store multiple values of the exact same data type in a single variable",
+"Arrays are declared using the const keyword",
+"Arrays serve as the absolute starting point of execution"
+],
+"answer": 1
+},
+{
+"type": "multiple-choice",
+"question": "In function terminology, what are external values received by a function declared as?",
+"options": [
+"Arguments",
+"Parameters",
+"Return statements",
+"Local constants"
+],
+"answer": 1
+},
+{
+"type": "multiple-choice",
+"question": "In function terminology, what are the actual values supplied when a function is called called?",
+"options": [
+"Parameters",
+"Arguments",
+"Directives",
+"Specifiers"
+],
+"answer": 1
+},
+{
+"type": "multiple-choice",
+"question": "Which of the following is NOT listed as a typical beginner mistake?",
+"options": [
+"Missing semicolons (;)",
+"Misspelled keywords or using undeclared variables",
+"Incorrect variable declarations or mismatched quotation marks",
+"Using correct pointer arithmetic and dynamic memory allocation"
+],
+"answer": 3
+},
+{
+"type": "multiple-choice",
+"question": "What does the compiler do with comments written in the source code?",
+"options": [
+"Executes them line by line",
+"Translates them into machine code",
+"Completely ignores them",
+"Displays them on the screen using cout"
+],
+"answer": 2
+},
+{
+"type": "multiple-choice",
+"question": "Which of the following is an example of an integer data type mentioned in the text?",
+"options": [
+"20",
+"'A'",
+"Maria",
+"89.5"
+],
+"answer": 0
+},
+{
+"type": "multiple-choice",
+"question": "Which of the following is an example of a char data type mentioned in the text?",
+"options": [
+"20",
+"'A'",
+"Maria",
+"true"
+],
+"answer": 1
+},
+{
+"type": "multiple-choice",
+"question": "What type of programming paradigm organizes instructions into procedures and functions?",
+"options": [
+"Object-oriented programming",
+"Procedural programming",
+"Event-driven programming",
+"Functional programming"
+],
+"answer": 1
+}
+],
+  "PROG2": [
+    {
+      "type": "multiple-choice",
+      "question": "What entity checks whether a C++ program follows the language syntax?",
+      "options": ["The linker", "The compiler", "The editor", "The preprocessor"],
+      "answer": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Which of the following elements is explicitly listed as a common syntax element in C++?",
+      "options": ["Pointers", "Identifiers", "Templates", "Classes"],
+      "answer": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "In the basic C++ program format provided, what defines the body of the main() function?",
+      "options": ["Parentheses ( )", "Braces { }", "Semicolons ;", "Angle brackets < >"],
+      "answer": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "What is a potential consequence of missing a semicolon at the end of a C++ statement?",
+      "options": ["A runtime warning", "A compilation error", "An infinite loop", "Automatic type conversion"],
+      "answer": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "What is the primary purpose of braces { } in C++ code?",
+      "options": ["To enclose function parameters", "To group statements into a block", "To enclose single-line comments", "To terminate a statement"],
+      "answer": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Where are parentheses ( ) used according to the source text?",
+      "options": ["Only in variable declarations", "In conditions, function calls, and expressions", "To group statements into blocks", "To end statements"],
+      "answer": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "How are single-line comments denoted in C++?",
+      "options": ["/*", "//", "<!--", "#"],
+      "answer": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "What distinguishes an expression from a statement in C++?",
+      "options": ["An expression produces a value, whereas a statement is an instruction executed by the program.", "A statement produces a value, whereas an expression is an instruction.", "An expression must end with a semicolon, but a statement does not.", "A statement can only contain keywords."],
+      "answer": 0
+    },
+    {
+      "type": "multiple-choice",
+      "question": "What is described as the simplest control structure in C++?",
+      "options": ["Selection", "Repetition", "Sequence", "Switch"],
+      "answer": 2
+    },
+    {
+      "type": "multiple-choice",
+      "question": "In a sequential control structure, how do statements execute?",
+      "options": ["From bottom to top", "From top to bottom in the order written", "Based on user input conditions", "Randomly"],
+      "answer": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "What are the three fundamental control structures that form the foundation of program logic?",
+      "options": ["Sequence, Selection, Repetition", "Input, Process, Output", "Initialization, Condition, Update", "Header, Main, Return"],
+      "answer": 0
+    },
+    {
+      "type": "multiple-choice",
+      "question": "What happens if the condition of a basic 'if' statement evaluates to false?",
+      "options": ["The program terminates immediately", "The block is skipped", "An error is thrown", "The default case executes"],
+      "answer": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "How many execution paths does an 'if-else' structure provide?",
+      "options": ["One execution path", "Two execution paths", "Three execution paths", "As many paths as there are cases"],
+      "answer": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "When is an 'else if' structure useful in a program?",
+      "options": ["When skipping code blocks entirely", "When several conditions need to be checked", "When repeating a block multiple times", "When comparing one expression with fixed integer values"],
+      "answer": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "How is a nested 'if' statement defined in the text?",
+      "options": ["An if statement placed inside another if statement", "An if statement combined with a loop", "An if statement that handles multiple defaults", "An if statement without braces"],
+      "answer": 0
+    },
+    {
+      "type": "multiple-choice",
+      "question": "When is a 'switch' statement particularly useful to use?",
+      "options": ["When checking boolean true/false ranges", "When one expression is compared with several fixed values", "When performing sequential flow instructions", "When executing a loop at least once"],
+      "answer": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "What is the purpose of the 'break' statement inside a switch case?",
+      "options": ["To restart the entire program", "To stop execution of the current switch case and prevent unintended execution of following cases", "To skip the current iteration of a loop", "To handle errors when no case matches"],
+      "answer": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "What role does the 'default' keyword play in a switch statement?",
+      "options": ["It initializes the switch expression", "It executes when no case matches", "It breaks out of the loop", "It forces the first case to run"],
+      "answer": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "What are the three common C++ loops mentioned in the text?",
+      "options": ["for, while, do-while", "if, else, switch", "sequence, selection, repetition", "break, continue, return"],
+      "answer": 0
+    },
+    {
+      "type": "multiple-choice",
+      "question": "When is a 'for' loop commonly used?",
+      "options": ["When the number of repetitions is unknown or controlled by user choice", "When the number of repetitions is known or controlled by a counter", "When the loop body must execute zero times", "When checking string inputs"],
+      "answer": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "What is the correct order of components in the header of a standard 'for' loop?",
+      "options": ["Condition, Initialization, Update", "Initialization, Condition, Update", "Update, Initialization, Condition", "Condition, Update, Initialization"],
+      "answer": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "How does a 'while' loop behave regarding condition testing?",
+      "options": ["The condition is tested after each iteration", "The condition is tested before each iteration", "The condition is tested only once at the end", "The condition is never tested"],
+      "answer": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "What critical rule must be followed when writing a 'while' loop?",
+      "options": ["The loop condition must eventually become false to prevent an infinite loop", "The loop must contain a default case", "The loop must use a switch statement internally", "The loop body must execute exactly ten times"],
+      "answer": 0
+    },
+    {
+      "type": "multiple-choice",
+      "question": "What distinguishes a 'do-while' loop from a 'while' loop?",
+      "options": ["A do-while loop's condition is checked before the body executes", "A do-while loop executes the body at least once because its condition is checked after the loop body", "A do-while loop cannot use update statements", "A do-while loop requires a break statement to function"],
+      "answer": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "What happens when a 'continue' statement is executed inside a loop?",
+      "options": ["It terminates the entire loop immediately", "It skips the current iteration and moves to the next iteration", "It pauses the program execution until user input is received", "It repeats the current iteration twice"],
+      "answer": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "What is the primary difference between 'break' and 'continue' when used in loops?",
+      "options": ["Break stops the entire loop, whereas continue skips the current iteration and continues with the next", "Continue stops the entire loop, whereas break skips the current iteration", "Break only works in switch statements, while continue works in loops", "There is no functional difference"],
+      "answer": 0
+    },
+    {
+      "type": "multiple-choice",
+      "question": "According to the text, what do control structures allow programs to do?",
+      "options": ["Run faster on hardware", "Solve more complex problems", "Avoid compilation errors completely", "Eliminate the need for functions"],
+      "answer": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "In the sequential trace activity where x = 5, y = 10, z = x + y, what is the value of z after addition?",
+      "options": ["5", "10", "15", "50"],
+      "answer": 2
+    },
+    {
+      "type": "multiple-choice",
+      "question": "In the sequential trace activity where z becomes 15 and is then updated by 'z = z * 2;', what is the final value of z?",
+      "options": ["15", "20", "25", "30"],
+      "answer": 3
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Which selection structure provides alternative execution based on multiple score brackets like 90 and 75?",
+      "options": ["Sequential flow", "Nested switch", "else if", "do-while loop"],
+      "answer": 2
+    },
+    {
+      "type": "multiple-choice",
+      "question": "What structure is formed when an 'if' statement is placed directly inside another 'if' statement?",
+      "options": ["A nested if", "An else if ladder", "A switch block", "A repetition loop"],
+      "answer": 0
+    },
+    {
+      "type": "multiple-choice",
+      "question": "In the context of the switch statement example provided in the text, what output is produced if 'day' is equal to 2?",
+      "options": ["Monday", "Tuesday", "Other", "Invalid"],
+      "answer": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "What is the output of the 'continue' statement code example when iterating from i = 1 to 5 and skipping when i == 3?",
+      "options": ["1 2 3 4 5", "1 2 4 5", "3 4 5", "1 2"],
+      "answer": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Which statement best describes the execution of a 'while' loop body if the condition is false initially?",
+      "options": ["It executes once", "It may execute zero times", "It executes infinitely", "It throws a compilation error"],
+      "answer": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Which programming elements are explicitly noted as being used for comments in C++?",
+      "options": ["// and /* */", "# and ##", "<!-- and -->", "{* and *}"],
+      "answer": 0
+    },
+    {
+      "type": "multiple-choice",
+      "question": "What type of code is produced by using meaningful names and consistent formatting according to the text?",
+      "options": ["Readable code", "Optimized machine code", "Encapsulated code", "Compressed code"],
+      "answer": 0
+    },
+    {
+      "type": "multiple-choice",
+      "question": "What does an expression do in C++?",
+      "options": ["Executes an instruction", "Produces a value", "Terminates a program", "Defines a namespace"],
+      "answer": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Which term describes the rules for writing valid C++ code that the compiler checks?",
+      "options": ["Semantics", "Syntax", "Logic", "Structure"],
+      "answer": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Which of the following is NOT listed as one of the three fundamental control structures?",
+      "options": ["Sequence", "Selection", "Compilation", "Repetition"],
+      "answer": 2
+    },
+    {
+      "type": "multiple-choice",
+      "question": "In the decision making activity guidelines, what grade classification corresponds to a score of 90 or above?",
+      "options": ["Passed", "Failed", "Excellent", "Minor"],
+      "answer": 2
+    },
+    {
+      "type": "multiple-choice",
+      "question": "In the decision making activity guidelines, what grade classification corresponds to a score between 75 and 89 inclusive?",
+      "options": ["Excellent", "Passed", "Failed", "Adult"],
+      "answer": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "In the decision making activity guidelines, what grade classification corresponds to a score below 75?",
+      "options": ["Passed", "Excellent", "Failed", "Other"],
+      "answer": 2
+    },
+    {
+      "type": "multiple-choice",
+      "question": "What update statement is explicitly used in the while loop example to prevent an infinite loop?",
+      "options": ["i--", "i++", "i = i + 2", "i = 0"],
+      "answer": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "In the do-while loop example checking user choice, what condition keeps the loop running?",
+      "options": ["choice == 0", "choice == 1", "choice != 1", "choice > 1"],
+      "answer": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Which loop type is described as having its condition checked after the loop body executes?",
+      "options": ["for loop", "while loop", "do-while loop", "nested loop"],
+      "answer": 2
+    },
+    {
+      "type": "multiple-choice",
+      "question": "What syntax element is used to enclose multi-line comments?",
+      "options": ["// and //", "/* and */", "{ and }", "( and )"],
+      "answer": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Which of the following best describes the role of the compiler with regards to syntax?",
+      "options": ["It ignores syntax rules completely", "It checks whether the program follows the language syntax", "It corrects syntax errors automatically during runtime", "It converts comments into machine code"],
+      "answer": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "What do statements normally end with in C++?",
+      "options": ["A comma (,)", "A period (.)", "A semicolon (;)", "A colon (:)"],
+      "answer": 2
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Which fundamental control structure is used to choose between alternatives?",
+      "options": ["Sequence", "Selection", "Repetition", "Expression"],
+      "answer": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Which fundamental control structure is used to repeat statements?",
+      "options": ["Sequence", "Selection", "Repetition", "Syntax"],
+      "answer": 2
+    }
+  ],
+  "PROG3": [
+    {
+      "type": "multiple-choice",
+      "question": "What is the primary definition of a function given in the text?",
+      "options": [
+        "A variable used to store data globally across a C++ program.",
+        "A reusable block of code designed to perform a specific task.",
+        "A conditional statement used to select between alternative paths.",
+        "An array element used to store multiple values of the same type."
+      ],
+      "answer": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "How do functions help address large problems in a program?",
+      "options": [
+        "By allowing a program to divide a large problem into smaller, manageable tasks.",
+        "By automatically generating object-oriented classes from procedural code.",
+        "By eliminating all possible compilation syntax errors.",
+        "By increasing global variable accessibility."
+      ],
+      "answer": 0
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Which of the following is NOT listed as a benefit of using functions?",
+      "options": [
+        "Organized",
+        "Reusable",
+        "Faster hardware execution speed",
+        "Easier to debug"
+      ],
+      "answer": 2
+    },
+    {
+      "type": "multiple-choice",
+      "question": "What is the general form syntax of a function?",
+      "options": [
+        "functionName returnType(parameters) { statements return value; }",
+        "returnType functionName(parameters) { statements return value; }",
+        "parameters functionName(returnType) { statements; }",
+        "returnType(parameters) functionName { return value; }"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Which part of a function identifies the function itself?",
+      "options": [
+        "Return type",
+        "Parameters",
+        "Function name",
+        "Return statement"
+      ],
+      "answer": 2
+    },
+    {
+      "type": "multiple-choice",
+      "question": "What does the return type of a function specify?",
+      "options": [
+        "The maximum number of parameters the function can accept.",
+        "The type of value returned by the function.",
+        "The memory address where the function code is stored.",
+        "The name of the calling function."
+      ],
+      "answer": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "What does a function definition contain?",
+      "options": [
+        "Only the function prototype declaration.",
+        "The actual code that performs the task.",
+        "The list of global program variables.",
+        "The preprocessor header directives."
+      ],
+      "answer": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "When is a function executed?",
+      "options": [
+        "When it is defined at the bottom of the source file.",
+        "When the compiler parses the header files.",
+        "When it is called.",
+        "When a global variable is modified."
+      ],
+      "answer": 2
+    },
+    {
+      "type": "multiple-choice",
+      "question": "In the function call flow, what happens immediately after the program reaches the function call?",
+      "options": [
+        "Control moves to the function.",
+        "Function statements execute immediately in the calling code context.",
+        "Control returns directly to the operating system.",
+        "The program terminates execution."
+      ],
+      "answer": 0
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Which statement best describes a void function?",
+      "options": [
+        "It returns an integer value to the caller.",
+        "It performs an action but does not return a value.",
+        "It cannot accept any parameters.",
+        "It must be declared using a function prototype."
+      ],
+      "answer": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "What is the output of the value-returning function example: `int square(int number) { return number * number; }` when executed with `int result = square(5);`?",
+      "options": [
+        "10",
+        "25",
+        "50",
+        "100"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Which of the following return types is explicitly shown in the text examples?",
+      "options": [
+        "float calculate()",
+        "double average()",
+        "char getChar()",
+        "long getLong()"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "What should a return statement provide to be correct?",
+      "options": [
+        "A value compatible with the function's return type.",
+        "A value equal to the sum of all function parameters.",
+        "Always an integer value regardless of signature.",
+        "A pointer reference to the calling function."
+      ],
+      "answer": 0
+    },
+    {
+      "type": "multiple-choice",
+      "question": "How are parameters defined in a function?",
+      "options": [
+        "The actual values supplied when a function is called.",
+        "Variables listed in a function definition.",
+        "The memory blocks allocated exclusively for return values.",
+        "Comments explaining the function body."
+      ],
+      "answer": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "What is an argument?",
+      "options": [
+        "A variable listed in a function definition.",
+        "The actual value supplied when a function is called.",
+        "The return type specified in the function signature.",
+        "An error generated during function compilation."
+      ],
+      "answer": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "In the function call `greet(\"Maria\");`, what is `\"Maria\"` considered?",
+      "options": [
+        "A parameter",
+        "A return type",
+        "An argument",
+        "A global variable"
+      ],
+      "answer": 2
+    },
+    {
+      "type": "multiple-choice",
+      "question": "According to the text, how can parameter and argument be distinguished?",
+      "options": [
+        "Parameter = value supplied during the call; Argument = definition",
+        "Parameter = definition; Argument = value supplied during the call",
+        "Parameter = return value; Argument = function name",
+        "Parameter = local variable; Argument = global variable"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "In the activity to create a function named `displayStudent`, what three values should it receive?",
+      "options": [
+        "Student ID, student name, student grade",
+        "Student name, student age, student section",
+        "Student address, student phone number, student age",
+        "Student section, student major, student GPA"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "In a simple pass-by-value function call, what does the function receive?",
+      "options": [
+        "A direct reference to the original variable",
+        "A copy of the argument",
+        "A pointer to the memory location of the argument",
+        "A global copy of the data"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "In the pass-by-value example where `int number = 10; void change(int x) { x = 50; } change(number);`, what is the output of `cout << number;` and why?",
+      "options": [
+        "Output is 50 because x modifies the original variable directly.",
+        "Output remains 10 because x is a copy.",
+        "Output is undefined because pass-by-value causes a compilation error.",
+        "Output is 0 because the variable is reset."
+      ],
+      "answer": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Trace the pass-by-value activity program: `int x = 5; void change(int n) { n = 20; } change(x); cout << x;`. What is the output behavior?",
+      "options": [
+        "The output is 20 because n updates x.",
+        "The output is 5 because changes to parameter n do not affect original variable x.",
+        "The program results in a compilation error.",
+        "The output is 25 because x is squared."
+      ],
+      "answer": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "What is the purpose of a function prototype?",
+      "options": [
+        "To execute the function body before main() runs.",
+        "To tell the compiler about a function before its definition appears.",
+        "To replace the return statement with an automatic value.",
+        "To declare global variables within a namespace."
+      ],
+      "answer": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Why are function prototypes particularly useful in program organization?",
+      "options": [
+        "They allow functions to be called before their full definitions appear when functions are placed below main().",
+        "They eliminate the need for parameter lists entirely.",
+        "They automatically convert void functions into value-returning functions.",
+        "They speed up runtime execution speed."
+      ],
+      "answer": 0
+    },
+    {
+      "type": "multiple-choice",
+      "question": "What is the typical structure order of a C++ program using prototypes as listed in the text?",
+      "options": [
+        "Include headers -> main() -> Function prototypes -> Function definitions",
+        "Function prototypes -> Include headers -> Function definitions -> main()",
+        "Include headers -> Function prototypes -> main() -> Function definitions",
+        "main() -> Include headers -> Function prototypes -> Function definitions"
+      ],
+      "answer": 2
+    },
+    {
+      "type": "multiple-choice",
+      "question": "In the prototype example provided, what does `int add(int a, int b);` represent?",
+      "options": [
+        "Function definition",
+        "Function prototype",
+        "Function call",
+        "Function body"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "How can functions be classified according to the function overview?",
+      "options": [
+        "By whether they use recursion or iteration.",
+        "By whether they receive parameters and/or return values.",
+        "By whether they are written inside or outside the main function.",
+        "By whether they use local or global scope."
+      ],
+      "answer": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Which function classification type is exemplified by `void greet() { cout << \"Hello!\"; }`?",
+      "options": [
+        "Type 1: No parameters, no return",
+        "Type 2: Parameters, no return",
+        "Type 3: No parameters, return value",
+        "Type 4: Parameters and return value"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Which function classification type receives data but only performs an action without returning a result?",
+      "options": [
+        "Type 1: No parameters, no return",
+        "Type 2: Parameters, no return",
+        "Type 3: No parameters, return value",
+        "Type 4: Parameters and return value"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Which function classification type does not receive an argument but returns a value (e.g., `int getNumber() { return 100; }`)?",
+      "options": [
+        "Type 1: No parameters, no return",
+        "Type 2: Parameters, no return",
+        "Type 3: No parameters, return value",
+        "Type 4: Parameters and return value"
+      ],
+      "answer": 2
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Which function classification type both receives parameters and returns a value (e.g., `int multiply(int a, int b)`)?",
+      "options": [
+        "Type 1: No parameters, no return",
+        "Type 2: Parameters, no return",
+        "Type 3: No parameters, return value",
+        "Type 4: Parameters and return value"
+      ],
+      "answer": 3
+    },
+    {
+      "type": "multiple-choice",
+      "question": "What is a nested function call?",
+      "options": [
+        "A function that calls itself recursively.",
+        "A function that can call another function.",
+        "A function defined inside another function's body.",
+        "A function with multiple return statements."
+      ],
+      "answer": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "In the nested function call example, how is `calculate(int x)` implemented using `square(x)`?",
+      "options": [
+        "return square(x) + 10;",
+        "return square(x + 10);",
+        "return x * square(10);",
+        "return square(x) * 2;"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "multiple-choice",
+      "question": "What does modular programming do?",
+      "options": [
+        "Combines all program instructions into a single large function.",
+        "Divides a program into smaller components.",
+        "Eliminates the need for functions entirely.",
+        "Forces all variables to be global."
+      ],
+      "answer": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "According to modular programming principles, what should each function ideally perform?",
+      "options": [
+        "Multiple complex tasks simultaneously",
+        "One clear task",
+        "Input and output operations only",
+        "Mathematical calculations exclusively"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Which of the following are listed as example program modules in the text?",
+      "options": [
+        "startProgram(), runProcess(), endProgram()",
+        "getInput(), calculateAverage(), displayResult()",
+        "readData(), processData(), writeData()",
+        "fetchInput(), computeValue(), printOutput()"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Breaking a program into functions makes the solution easier to:",
+      "options": [
+        "Compile and link faster",
+        "Understand and maintain",
+        "Run without memory leaks",
+        "Convert to machine code directly"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Which of the following is listed as a best practice for functions?",
+      "options": [
+        "Use unnecessary global variables instead of parameters.",
+        "Give functions meaningful names.",
+        "Make functions as long and comprehensive as possible.",
+        "Avoid using return types whenever possible."
+      ],
+      "answer": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Which best practice recommends keeping each function focused?",
+      "options": [
+        "Keep each function focused on one task.",
+        "Ensure every function returns multiple values.",
+        "Use global variables for state management.",
+        "Avoid function prototypes."
+      ],
+      "answer": 0
+    },
+    {
+      "type": "multiple-choice",
+      "question": "What should be chosen appropriately according to function best practices?",
+      "options": [
+        "The return type",
+        "The background color of the IDE",
+        "The number of global variables",
+        "The file extension"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Why should you avoid repeating the same code, according to best practices?",
+      "options": [
+        "Code repetition increases maintenance effort and errors; functions reduce it.",
+        "Repetitive code causes compiler syntax errors.",
+        "The CPU cannot execute duplicate lines of code.",
+        "C++ does not permit duplicate lines."
+      ],
+      "answer": 0
+    },
+    {
+      "type": "multiple-choice",
+      "question": "What does the keyword `return` do in a function?",
+      "options": [
+        "Ends a function and may send a value back.",
+        "Restarts the function from the beginning.",
+        "Terminates the entire C++ program immediately.",
+        "Declares a new parameter variable."
+      ],
+      "answer": 0
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Which keyword is used when a function performs an action but does not return a value?",
+      "options": [
+        "null",
+        "void",
+        "empty",
+        "none"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "What do functions support in C++ programming according to key takeaways?",
+      "options": [
+        "Procedural programming only",
+        "Object-oriented programming only",
+        "Modular and reusable C++ programs",
+        "Direct hardware manipulation"
+      ],
+      "answer": 2
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Which of the following is a key takeaway regarding function prototypes?",
+      "options": [
+        "Function prototypes declare functions before their definitions.",
+        "Function prototypes execute functions before main().",
+        "Function prototypes replace the function body.",
+        "Function prototypes are mandatory for all C++ programs."
+      ],
+      "answer": 0
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Well-designed functions make programs easier to:",
+      "options": [
+        "Read, test, and maintain",
+        "Compile, link, and execute faster",
+        "Encrypt and secure",
+        "Translate into other languages"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "multiple-choice",
+      "question": "In the function definition example `void displayMessage() { cout << \"Welcome to C++!\"; }`, why is its return type void?",
+      "options": [
+        "Because it returns a string message.",
+        "Because it does not return a value.",
+        "Because it accepts parameters.",
+        "Because it is called inside main()."
+      ],
+      "answer": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "What happens when `int sum = add(10, 5);` executes using `int add(int a, int b) { return a + b; }`?",
+      "options": [
+        "The sum is calculated and stored in the caller variable `sum`.",
+        "The program halts with an error.",
+        "The values 10 and 5 are printed to the console.",
+        "The parameters are re-declared as global variables."
+      ],
+      "answer": 0
+    },
+    {
+      "type": "multiple-choice",
+      "question": "When a function has multiple parameters, how are they listed in a function definition?",
+      "options": [
+        "Separated by semicolons (;)",
+        "Separated by commas (,)",
+        "Separated by periods (.)",
+        "Separated by colons (:)"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "What is the output of the Type 4 function example `int result = multiply(4, 5); cout << result;`?",
+      "options": [
+        "9",
+        "20",
+        "40",
+        "5"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "multiple-choice",
+      "question": "In the modular programming section, what is emphasized about each function?",
+      "options": [
+        "It should ideally perform one clear task.",
+        "It must always return an integer value.",
+        "It cannot call other functions.",
+        "It must be placed above the main function."
+      ],
+      "answer": 0
+    }
+  ]
+}
